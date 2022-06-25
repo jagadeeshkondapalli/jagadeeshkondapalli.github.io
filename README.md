@@ -85,7 +85,7 @@
                                             <p>Age :<span>20</span></p>
                                        </div>
                                        <div class="info-item padd-15">
-                                            <p>Website :<span>www.domian.com</span></p>
+                                            <p>Website :<span>jagadeeshkondapalli.github.io</span></p>
                                        </div>
                                        <div class="info-item padd-15">
                                             <p>Email :<span>jagadeeshkondapalli1729@gmail.com</span></p>
