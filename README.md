@@ -225,41 +225,8 @@
                              </div>
                         </div>
                         <!--====== inner item section start======-->
-                        <div class="internships-item padd-15">
-                            <div class="internships-item-inner shadow-dark">
-                               <div class="internships-img">
-                                <img src="verzeo.jpeg" alt="">
-                               </div>
-                            </div>
-                       </div>
-                       <div class="internships-item padd-15">
-                            <div class="internships-item-inner shadow-dark">
-                                <div class="internships-img">
-                                    <img src="verzeo.jpeg" alt="">
-                                </div>
-                            </div>
-                       </div>
-                       <div class="internships-item padd-15">
-                            <div class="internships-item-inner shadow-dark">
-                                <div class="internships-img">
-                                    <img src="verzeo.jpeg" alt="">
-                                </div>
-                            </div>
-                       </div>
-                       <div class="internships-item padd-15">
-                            <div class="internships-item-inner shadow-dark">
-                                 <div class="internships-img">
-                                    <img src="verzeo.jpeg" alt="">
-                                </div>
-                            </div>
-                       </div>
-                       <div class="internships-item padd-15">
-                            <div class="internships-item-inner shadow-dark">
-                                 <div class="internships-img">
-                                     <img src="verzeo.jpeg" alt="">
-                                 </div>
-                            </div>
-                       </div>
+                       
+                       
                     
                     </div>
                 </div>
