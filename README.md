@@ -350,7 +350,7 @@
         <!-- ======= Main container end =======-->
         <!--=======style switcher start ======-->
         <div class="style-switcher">
-            <div class="style-switcher-toggler s-icon">
+            <div class="style-switcher-toggler">
                
             </div>
             <div class="day-night s-icon">
