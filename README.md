@@ -99,6 +99,9 @@
                                        <div class="info-item padd-15">
                                             <p>City :<span>Kadapa</span></p>
                                        </div> 
+                                       <div class="info-item padd-15">
+                                            <p>Place :<span>Andhra pradesh, India</span></p>
+                                       </div> 
                                     </div>
                                     <div class="row">
                                         <div class="buttons padd-15">
@@ -118,8 +121,8 @@
                                         <div class="skill-item padd-15">
                                             <h5>Python</h5>
                                             <div class="progress">
-                                                <div class="progress-in" style="width: 68%"></div>
-                                                <div class="skill-percent">68%</div>
+                                                <div class="progress-in" style="width: 70%"></div>
+                                                <div class="skill-percent">70%</div>
                                             </div>
                                         </div>
                                         <div class="skill-item padd-15">
@@ -132,8 +135,8 @@
                                         <div class="skill-item padd-15">
                                             <h5>HTML/CSS</h5>
                                             <div class="progress">
-                                                <div class="progress-in" style="width: 50%"></div>
-                                                <div class="skill-percent">50%</div>
+                                                <div class="progress-in" style="width: 65%"></div>
+                                                <div class="skill-percent">65%</div>
                                             </div>
                                         </div>
                                         <div class="skill-item padd-15">
@@ -141,6 +144,13 @@
                                             <div class="progress">
                                                 <div class="progress-in" style="width: 80%"></div>
                                                 <div class="skill-percent">80%</div>
+                                            </div>
+                                        </div>
+                                        <div class="skill-item padd-15">
+                                            <h5>Machine Learning</h5>
+                                            <div class="progress">
+                                                <div class="progress-in" style="width: 40%"></div>
+                                                <div class="skill-percent">40%</div>
                                             </div>
                                         </div>
                                     </div>
