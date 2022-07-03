@@ -229,12 +229,20 @@
                         <div class="internships-item padd-15">
                              <div class="internships-item-inner shadow-dark">
                                 <div class="internships-img">
-                                    <img src="certificate.jpeg" alt="">
+                                    <img src="AI.jpeg" alt="">
                                 </div>
                              </div>
                         </div>
                         <!--====== inner item section start======-->
-                       
+                        <!--====== inner item section start======-->
+                        <div class="internships-item padd-15">
+                             <div class="internships-item-inner shadow-dark">
+                                <div class="internships-img">
+                                    <img src="web.jpeg" alt="">
+                                </div>
+                             </div>
+                        </div>
+                        <!--====== inner item section start======-->
                     
                     </div>
                 </div>
